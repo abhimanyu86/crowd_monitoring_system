@@ -1,0 +1,4 @@
+streamlit>=1.35
+ultralytics>=8.1.80
+opencv-python-headless
+torch>=2.1
